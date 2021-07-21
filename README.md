@@ -1,2 +1,2 @@
 test v1
-test history
+test censored
